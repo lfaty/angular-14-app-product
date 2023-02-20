@@ -9,12 +9,12 @@
       "available": true
     },
     {
+      "id": 2,
       "name": "pp",
       "price": "45",
       "quantity": "05",
-      "selected": true,
-      "available": true,
-      "id": 2
+      "selected": false,
+      "available": true
     },
     {
       "id": 3,
@@ -22,7 +22,15 @@
       "price": "15000",
       "quantity": "5",
       "selected": true,
-      "available": true
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "ORDINATEUR PORTABLE HP",
+      "price": "350000",
+      "quantity": "2",
+      "selected": true,
+      "available": false
     }
   ]
 }
